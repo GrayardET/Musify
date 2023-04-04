@@ -1,0 +1,3522 @@
+{
+    "data": [
+      {
+        "id": "track-similarities-id-424767377",
+        "type": "shazam-song-lists"
+      }
+    ],
+    "resources": {
+      "shazam-song-lists": {
+        "track-similarities-id-424767377": {
+          "id": "track-similarities-id-424767377",
+          "type": "shazam-song-lists",
+          "relationships": {
+            "tracks": {
+              "data": [
+                {
+                  "id": "345054532",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "40937752",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "351297731",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "536580701",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "40937755",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "536580698",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "359665341",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "428972028",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "40937757",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "40937751",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "53040475",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "53305783",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "428972023",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "53040478",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "53537854",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "536580700",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "53040471",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "108221332",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "85977024",
+                  "type": "shazam-songs"
+                },
+                {
+                  "id": "108221335",
+                  "type": "shazam-songs"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "shazam-artists": {
+        "42": {
+          "id": "42",
+          "type": "shazam-artists"
+        }
+      },
+      "artists": {
+        "560289": {
+          "id": "560289",
+          "type": "artists"
+        },
+        "567072": {
+          "id": "567072",
+          "type": "artists"
+        },
+        "62820413": {
+          "id": "62820413",
+          "type": "artists"
+        },
+        "414023649": {
+          "id": "414023649",
+          "type": "artists"
+        }
+      },
+      "lyrics": {
+        "15466158": {
+          "id": "15466158",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Drive away,",
+              "As in lonesome south",
+              "Like a real straight-shooter",
+              "Three lanes full",
+              "",
+              "Drive away,",
+              "As in lonesome south",
+              "Like a real straight-shooter",
+              "Three lanes full",
+              "",
+              "Gotta ride in my heart",
+              "Get em going down,",
+              "You don't have to be a star,",
+              "",
+              "To, to get them going round",
+              "Even if you try to move,",
+              "Wheel it to your right,",
+              "So get on, on the driving wheel,",
+              "",
+              "To- save it for a round",
+              "",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Got to ride in my heart,",
+              "",
+              "See 'em goin' down",
+              "Killed up by the ball front,",
+              "Shoot a jamboree,",
+              "Cold lighted day,",
+              "Like a memory,",
+              "Just a cold lighted day,",
+              "Slip a line on me",
+              "",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Hillbilly, Hillbilly, Hillbilly, billy man",
+              "Hillbilly, Hillbilly, Hillbilly, billy man"
+            ],
+            "footer": "Writer(s): Jamie Christopher Hewlett, Damon Albarn\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "9207603",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "16627399": {
+          "id": "16627399",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Momentary pain",
+              "Can be pleasure lain",
+              "Will a second change?",
+              "Magic lantern strange",
+              "Are we just too far, to be as one again?",
+              "Are we obsidian?",
+              "Is this how it is?",
+              "Girl, your life will turn",
+              "Just like a strobe",
+              "Because you're daddy's pain",
+              "And your mother won't",
+              "And your heart engages into heartless throes",
+              "Are we obsidian?",
+              "Is it how it goes?",
+              "",
+              "When you're drivin' night is dreamin'",
+              "Livin' the strobe light",
+              "And you will find the life you needed",
+              "Livin' the strobe light",
+              "",
+              "Slide the light off you",
+              "You may find some peace",
+              "All will come to you",
+              "If you come with me",
+              "Are we just too far to be as one again?",
+              "Are we obsidian?",
+              "Is this how it ends?",
+              "(Yeah!)",
+              "",
+              "When you're drivin' night is dreamin'",
+              "Livin' the strobe light",
+              "And you will find the life you needed",
+              "Livin' the strobe light",
+              "",
+              "Oh yeah!",
+              "",
+              "When you're drivin' night is dreamin'",
+              "Livin' the strobe light",
+              "And you will find the life you needed",
+              "Livin' the strobe light",
+              "",
+              "When you're drivin' night is dreamin'",
+              "Livin' the strobe light",
+              "And you will find the life you needed",
+              "Livin' the strobe light",
+              "",
+              "And when you got it",
+              "See it in your dreams",
+              "You get hit by the strobe light",
+              "You've got to find it, we all need it",
+              "We get hit by the strobe light",
+              "",
+              "And when you got it",
+              "See it in your dreams",
+              "You get hit by the strobe light",
+              "You've got to find it, we all need it",
+              "We get hit by the strobe light"
+            ],
+            "footer": "Writer(s): Peven Everett, Damon Albarn, Anthony Khan\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "70829901",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "16836002": {
+          "id": "16836002",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Just when things are getting complicated in the eye of the storm",
+              "She flicks a red-hot revelation off the tip of her tongue",
+              "It does a dozen somersaults and leaves you supercharged",
+              "Makes me wanna blow the candles out",
+              "Just to see if you glow in the dark",
+              "",
+              "Shalalala, shalalala",
+              "Shalalala, shalalala",
+              "",
+              "Home sweet home, home sweet home",
+              "Home sweet booby-trap",
+              "I took the batteries out my mysticism and put 'em in my thinking cap",
+              "She's got a telescopic hallelujah hanging up on her wall",
+              "For when it gets too complicated in the eye of the storm",
+              "",
+              "Shalalala, shalalala",
+              "Shalalala, shalalala",
+              "Oh, oh-oh-oh",
+              "",
+              "And in a hellcat spangled cavern",
+              "When your judgment's on the road",
+              "And you're acting like a stranger",
+              "'Cause you thought it looked like fun",
+              "And did you ever get the feeling",
+              "That these are things she's said before?",
+              "Her steady hands may well have done the devil's pedicure",
+              "What you waiting for? Sing another fucking",
+              "",
+              "Shalalala, shalalala",
+              "Shalalala, shalalala"
+            ],
+            "footer": "Writer(s): Alex Turner\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "9434051",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "19566147": {
+          "id": "19566147",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "We got the power to be loving each other",
+              "No matter what happens",
+              "We got the power to do that",
+              "On a le pouvoir de s'aimer, okay?",
+              "",
+              "We got the power to be",
+              "Ringing the great bell out there above us",
+              "We got the power for that",
+              "We got the power to do that",
+              "",
+              "And we dream of home",
+              "I dream of life out of here",
+              "Their dreams are small",
+              "My dreams don't know fear",
+              "",
+              "(I got all you) I got my heart full of hope",
+              "I will change everything",
+              "No matter what I'm told",
+              "Or how impossible it seems",
+              "",
+              "(We got the power) We did it before",
+              "And we'll do it again",
+              "We're indestructible",
+              "Even when we're tired",
+              "",
+              "And we've been here before",
+              "Just you and I",
+              "Don't try to rescue me",
+              "I don't need to be rescued",
+              "",
+              "We got the power to be loving each other",
+              "No matter what happens",
+              "We got the power to do that",
+              "On a le pouvoir de s'aimer, okay?",
+              "",
+              "We got the power to be ringing",
+              "The great bell out there above us",
+              "We got the power for that",
+              "We got the power to do that",
+              "",
+              "Get yourself up to the silent altar",
+              "And call me",
+              "But don't forget the machines",
+              "'Cause if your choice is chipping it down",
+              "",
+              "On the M1",
+              "Then you'll wake up in the morning",
+              "You'll be storming, oh, oh, oh",
+              "",
+              "We got the power to be loving each other",
+              "No matter what happens",
+              "We've got the power to do that",
+              "On a le pouvoir de s'aimer, okay?",
+              "",
+              "We got the power to be ringing",
+              "The great bell out there above us",
+              "We got the power to do that",
+              "We got the power, power, power...",
+              "",
+              "We got the power",
+              "We got the power"
+            ],
+            "footer": "Writer(s): Damon Albarn, Camille Berthomier\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "70829920",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "20297354": {
+          "id": "20297354",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Wait time is the worst",
+              "I can hardly sit",
+              "No one has the time",
+              "Someone is always late",
+              "I look for you",
+              "And you look for me, whoa, ohh",
+              "",
+              "I don't know why I came down",
+              "I hold your phone, don't wake up",
+              "I hear a voice, in the ground",
+              "",
+              "Tell me, don't tell me",
+              "The hard part is telling me",
+              "Something that you are not likely to tell me",
+              "",
+              "Tell me, don't tell me",
+              "The hard part is telling me",
+              "Something that you are not likely to tell me",
+              "",
+              "Wait time is to blame",
+              "I thought fame was a trip",
+              "We all have the time",
+              "Someone is always feared",
+              "I look for you",
+              "And you look away, ohh",
+              "",
+              "I don't know why I came down",
+              "I hold your phone, don't wake up",
+              "I hear a voice in the ground",
+              "(Waking up is so much fun to do)",
+              "80s movies make out party yeah, ooh"
+            ],
+            "footer": "Writer(s): Julian Casablancas, Nick Valensi\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "9351487",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "20681660": {
+          "id": "20681660",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "I lost my leg like I lost my way",
+              "So no loose ends",
+              "Nothing to see me down",
+              "How are we going to work this out?",
+              "",
+              "Dreams aren't bad, our heads are mad",
+              "I love the girl",
+              "But God only knows it's",
+              "Getting hard to see the sun coming through",
+              "I love you",
+              "But what are we going to do?",
+              "",
+              "Picture on the dreamer",
+              "I'll take you deeper",
+              "Down to the sleepy glow",
+              "Time is a low",
+              "Don't you know",
+              "What are we going to do?",
+              "",
+              "When you go back",
+              "All the second selfless days",
+              "You're in love with him",
+              "I want to see you again",
+              "I love you",
+              "But what are we going to do?"
+            ],
+            "footer": "Writer(s): Damon Albarn, Jamie Hewlett\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "1149272",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "21320116": {
+          "id": "21320116",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "I'm not gonna cry",
+              "I got more time to give",
+              "I'm not gonna cry",
+              "Find another dream",
+              "",
+              "Am I incapable of healing?",
+              "The memory of my fall from grace in your heart",
+              "I'm on my journey home with no fuel, alone",
+              "I think I'll coast a while",
+              "",
+              "I'm not gonna cry",
+              "I got more time to give",
+              "I'm not gonna cry",
+              "Find another dream",
+              "",
+              "'Cause I'm about to solve it",
+              "Put my engine back into overdrive",
+              "So I can breathe again, photosynthesize again",
+              "With the green hills of my home",
+              "",
+              "I'm not gonna cry",
+              "I got more time to give",
+              "I'm not gonna cry",
+              "Find another dream",
+              "I'm not gonna cry (Save the way to me)",
+              "I got more time to give (It's getting nasty)",
+              "I'm not gonna cry",
+              "Find another dream",
+              "",
+              "But if I got it right, you'd tell me",
+              "And if I was wrong, then I disappear",
+              "But I'm incapable",
+              "",
+              "I'm not gonna cry (Say the way to me)",
+              "I got more time to give (It's getting nasty)",
+              "I'm not gonna cry",
+              "Find another dream"
+            ],
+            "footer": "Writer(s): Remi Kabaka, Damon Albarn, James Ellis Ford\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "84122152",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "21787971": {
+          "id": "21787971",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "I'm on the high ridge looking down",
+              "While we're evolving, I get old",
+              "If I get back then I'll be grateful",
+              "Look there's a billboard on the moon",
+              "",
+              "Let me take you this far this crossing isn't much to me",
+              "There's lightning in the storm clouds",
+              "And I'll send you there to stay",
+              "",
+              "You got me lost in Magic City",
+              "You got me questioning it all",
+              "I hope that I make it home by Wednesday",
+              "And this Magic City let's me go",
+              "",
+              "Magic City",
+              "Magic City",
+              "Magic City",
+              "Magic City",
+              "",
+              "You put me up here in the penthouse",
+              "And painted me in red, white and blue",
+              "I filled the canyons with my ego",
+              "Look there's a billboard on the moon",
+              "",
+              "You got me lost in Magic City",
+              "You got me questioning it all",
+              "I hope that I make it home by Wednesday",
+              "And this Magic City lets me go"
+            ],
+            "footer": "Writer(s): Remi Kabaka, Damon Albarn, James Ellis Ford\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "84122156",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "22546481": {
+          "id": "22546481",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Well, let's take off from the start",
+              "I know you tried all this before",
+              "And did your best to fight the war",
+              "And break it off",
+              "",
+              "But if I follow my name",
+              "I will calm you in the storm",
+              "And breathe you in when you are worn",
+              "Be still my love",
+              "",
+              "Would it take a shooting star?",
+              "To show you life can bloom",
+              "When somethings breaks",
+              "When the pieces fall",
+              "I'll catch them all",
+              "",
+              "Never mind what you're looking for",
+              "You'll always find what you're looking for",
+              "Sometimes it's blinding in the race",
+              "I'll be here smiling when I see your face",
+              "",
+              "Never mind what you're looking for",
+              "You're gonna find what you're looking for",
+              "Sometimes it's blinding in the race",
+              "I'll be here smiling when I see your face",
+              "",
+              "Yeah, it's hard to know the truth",
+              "In this post-modernist view",
+              "Where absolutes are seen as relics",
+              "And laughed out of the room",
+              "",
+              "And I'm scared to say your name",
+              "I've cried wolf so many times",
+              "And I'm afraid of what you'd want from me",
+              "",
+              "Will you find me through the grey?",
+              "'Cause my mind's a minefield of the wretched",
+              "It's honestly deceptive 'cause",
+              "",
+              "Never mind what you're looking for",
+              "You'll always find what you're looking for",
+              "Sometimes it's blinding in the race",
+              "I'll be here smiling when I see your face",
+              "",
+              "Never mind what you're looking for",
+              "You're gonna find what you're looking for",
+              "Sometimes it's blinding in the race",
+              "I'll be here smiling when I see your face",
+              "",
+              "What you're looking for",
+              "So clap your hands and sing",
+              "",
+              "Never mind what you're looking for",
+              "You'll always find what you're looking for",
+              "Never mind what you're looking for",
+              "You'll always find what you're looking for"
+            ],
+            "footer": "Writer(s): Mark Foster, Paul Epworth\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "19311259",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "22789107": {
+          "id": "22789107",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "",
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "",
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "",
+              "Leviticus",
+              "Deuteronomy",
+              "",
+              "Snatch a piece of my wonderin'",
+              "Distant, far like yonderin'",
+              "Skin of my tooth like, seat of my boot like",
+              "Fly in my soup like, where's the waitress?",
+              "",
+              "Can't take this, really can't finish this",
+              "These airs and all these graces",
+              "It's my mistake, I make it",
+              "J-dub to the boom now make it",
+              "",
+              "Bounce-wiggle, bounce-wiggle",
+              "Shakin' all them bangs out",
+              "Chemical cut throats",
+              "Bound to blow the brain out",
+              "",
+              "Cut to the brain, this ain't no game",
+              "I'll show no shame, I'll birth this blame",
+              "I'm twisted Cain, I'll twist again",
+              "I'll push the blade as plain as day",
+              "",
+              "Known to what these sayers say",
+              "Known to what these doers do",
+              "We shoot where who and you-know-where",
+              "We's about to take it there",
+              "",
+              "We's about to make it clear",
+              "We happy or we lonesome",
+              "The long jump, the beat heart",
+              "From start to finish",
+              "",
+              "Ten spoons of spinach",
+              "The soul and the spillage",
+              "The cup that runneth over",
+              "Return of the 'O God'",
+              "",
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "",
+              "All alone, all alone",
+              "All alone, all alone",
+              "",
+              "Close your eyes and see",
+              "When there ain't no light",
+              "All you'll ever be",
+              "Come on save the night",
+              "",
+              "Because I don't believe",
+              "When the morning comes",
+              "It doesn't seem to say",
+              "An awful lot to me",
+              "",
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "All alone, all alone",
+              "",
+              "All alone, all alone",
+              "All alone, all alone"
+            ],
+            "footer": "Writer(s): Rodney Smith, Brian Burton, Simon Tong, Jamie Hewlett, Damon Albarn\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "1149204",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "23748867": {
+          "id": "23748867",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "The mountains are all waiting",
+              "The fullmoon has come",
+              "",
+              "I got lost on highways",
+              "But don't ask me where I've been",
+              "",
+              "Or what I've done",
+              "Oh Lord, send me transmissions",
+              "Forgive me for what I've become",
+              "",
+              "The sun has come save me",
+              "Put a little love into my lonely soul",
+              "The sun has come to save me",
+              "Put a little love into my lonely soul",
+              "",
+              "Oh don't you know why",
+              "I need her loving you?",
+              "Float inside a lonely soul"
+            ],
+            "footer": "Writer(s): Damon Albarn, Jamie Christopher Hewlett\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "9207598",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "24103730": {
+          "id": "24103730",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "You've more or less forgotten me this summer",
+              "And I can't hide my disappointment",
+              "I was on my way in the Phantom V",
+              "The one you gave away",
+              "",
+              "Try to tell you that I love you but I'm choked up",
+              "You forgot and that makes me feel like no one (summer nights)",
+              "Was you even really there? Did you ever really feel?",
+              "Wait, I got so many examples of all of the good times we had",
+              "Long summer nights (summer nights)",
+              "Held you a long time, put your name in my rhyme",
+              "Refresh your memory of where you wanna be",
+              "The Phantom's on the way, she's comin' down the street",
+              "",
+              "I tried to get to Atlanta",
+              "On a peach blossom highway",
+              "I'm tryin' to put these pauses out of mind",
+              "In a sky made of diamonds",
+              "Where the world fell silent",
+              "I'll be waiting for you on the other side",
+              "",
+              "Summer lights",
+              "",
+              "Summer nights",
+              "I tried to say I love you",
+              "But you didn't listen (summer nights)",
+              "I tried to give you everything you might need (summer nights)",
+              "In a sky made of diamonds",
+              "And where the world is flawless",
+              "I'll be waiting for you on the other side",
+              "",
+              "Of summer lights, summer lights",
+              "Hold it in for a long time",
+              "Summer lights, seems to me I'm in a dream",
+              "Behind these summer lights",
+              "",
+              "The Phantom is coming",
+              "You forgot and that makes me feel like no one",
+              "She's crossing over the line",
+              "Wait, I got so many examples of all of the good times we had",
+              "Seems to me I'm in a dream",
+              "(Put your name in my rhyme, refresh your memory)",
+              "(Or where you wanna be) these summer lights",
+              "(The Phantom's on the way)",
+              "(She's comin' down the street)",
+              "Summer nights"
+            ],
+            "footer": "Writer(s): Damon Albarn, Remi Kabaka, Ricardo Valdez Valentine  Jr.\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "116459536",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "24188506": {
+          "id": "24188506",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Welcome to the land of the permanent sun",
+              "Where the flowers are melted and the future is fun",
+              "The freeway lizards are all feelin' so good",
+              "From a one-way trip back to West Hollywood, let's go",
+              "",
+              "It feels so good to have a perfect soul",
+              "It feels so good to be in total control",
+              "It feels so good to have a perfect soul",
+              "It feels so good to be in total control",
+              "",
+              "There were spotlights flying through the sky",
+              "From a winter wonderland, catching out",
+              "The beasts hiding in the clouds, no future, bad man",
+              "Nothing for Christmas, not very likely",
+              "One hundred million Viagra tablets",
+              "Stored in a warehouse, in a valley",
+              "",
+              "It feels so good to have a perfect soul (uh-huh)",
+              "It feels so good to be in total control (uh-huh)",
+              "It feels so good to have a perfect soul (uh-huh)",
+              "It feels so good to be in total control (uh-huh)",
+              "",
+              "It's so convincing, but something's missing",
+              "The sun is kissing my face and erasing my doubts",
+              "I'm going out with a bang, and the fangs of a parasite",
+              "I'm feeling alright",
+              "Alright all night, alright, alright, alright",
+              "",
+              "Say sweet dreams, et cetera and forever",
+              "I hope, said no one",
+              "",
+              "She's a plastic Cleopatra on a throne of ice",
+              "She's a haemophiliac",
+              "With a dying battery life",
+              "Candy-colored fingers and schadenfreude eyes",
+              "Thinkin' airbrushed thoughts with a logo on her mind",
+              "",
+              "It's so delightful, it's so insightful",
+              "It's so frightful, and I'm feeling it",
+              "Every single fucking day",
+              "It's time to party",
+              "It's time to party (woo)",
+              "",
+              "In the valley where you wake up every beautiful day",
+              "And the world you created in your image is golden",
+              "Valley made of mirrors",
+              "Oh, the light is so bright",
+              "You can feel like a pagan",
+              "You can feel like a pagan",
+              "",
+              "In the valley where you wake up every beautiful day",
+              "And the world you created in your image is golden",
+              "Valley made of mirrors",
+              "Oh, the light is so bright",
+              "You can feel like a pagan",
+              "You can feel like a pagan",
+              "",
+              "In the valley (yeah)",
+              "In the valley (I live in the valley now)",
+              "In the valley (I heard there's a shaman out in the desert)",
+              "In the valley (I'm getting really transcendental, and liking it)",
+              "Feel like a pagan now (I'm on a cleanse)",
+              "Feel like a pagan",
+              "In the valley (well the hot tub is really chill)",
+              "Feel like a pagan"
+            ],
+            "footer": "Writer(s): Damon Albarn, Beck Hansen, Remi Kabaka\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "116459522",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "26476835": {
+          "id": "26476835",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Chalk tablet towers",
+              "Like drawing shadows",
+              "Chemical distractions",
+              "You are not with me",
+              "I departed in the spring",
+              "To a distant star",
+              "But I could not get back",
+              "I had gone too far",
+              "",
+              "Oh oh oh oh oh",
+              "",
+              "I wanna get drunk",
+              "I wanna get stoned",
+              "I wanna give up",
+              "I wanna go home",
+              "",
+              "Watching rockets take off",
+              "From a parting sea",
+              "How will I ever touch you",
+              "If you are not with me? (Oh oh oh oh oh)",
+              "(Out here) there's only silence",
+              "(Out here) no form of contact",
+              "(Out here) I am dreaming",
+              "Looking into darkness (oh oh oh oh oh)",
+              "",
+              "I won't be back till the end of summer",
+              "Will you still be there?",
+              "I won't give up on you darling",
+              "Just tell me that you care",
+              "I don't need no trophies",
+              "No cell with a view",
+              "There's nothing I wouldn't give",
+              "One minute with you-ooh-ooh-ooh-ooh",
+              "",
+              "You-ooh-ooh-ooh-ooh",
+              "You-ooh-ooh-ooh-ooh",
+              "",
+              "Oh oh oh",
+              "Oh oh oh oh oh",
+              "Oh oh oh oh oh",
+              "Oh oh oh oh oh"
+            ],
+            "footer": "Writer(s): Remi Kabaka, Damon Albarn, Annie Clark\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "116459535",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "30310077": {
+          "id": "30310077",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Revolving doors what have I done",
+              "Someone on the TV attempting love",
+              "Revolving doors what will I become",
+              "A redneck song",
+              "",
+              "He paid up for seven",
+              "But he only got an eight now, now",
+              "I feel that I'm paused by all the pills",
+              "I see no wronging",
+              "",
+              "On a foggy day",
+              "Revolving doors in London, to a foggy day in Boston",
+              "Revolving doors in London, to a foggy day in Boston",
+              "I sit in a diner",
+              "And the Beatles play",
+              "",
+              "I'm paid up for a seven",
+              "But I only got S.O. eight, oh now",
+              "I feel that I'm paused by all the pills",
+              "I seem to run out here",
+              "Revolving doors in London, to a foggy day in Boston",
+              "Revolving doors in London, to a foggy day in Boston",
+              "",
+              "Revolving doors",
+              "It's stormy on the eastern sea board",
+              "He got silver up his night",
+              "He paid up for three",
+              "But got only two",
+              "",
+              "Revolving doors in London, to a foggy day in Boston",
+              "Revolving doors in London, to a foggy day in Boston",
+              "Then he said",
+              "Seems I was born for this",
+              "Seems I was born to this",
+              "Revolving doors",
+              "Revolving doors"
+            ],
+            "footer": "Writer(s): Jamie Christopher Hewlett, Damon Albarn\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "9207606",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "30382458": {
+          "id": "30382458",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "(When your best friend's all strung out)",
+              "You do everything you can",
+              "'Cause you're never gonna let it get 'em down",
+              "(When you find it all around)",
+              "Well, it comes in waves",
+              "But it's hardest from the start",
+              "",
+              "Feeling's sleeping in the field again",
+              "But I can feel, I can feel, I can feel",
+              "It's beginning to end",
+              "Yeah, premonition's smiling in the dark",
+              "I can see, I can see, I can see",
+              "The story's starting to arc",
+              "",
+              "(Ah, ah, ah, ah)",
+              "",
+              "It dries up",
+              "I've been a spoken word",
+              "I've been a river bed",
+              "I've been a rabid force",
+              "And let it flow out from within",
+              "Sometimes it feels like I only dream in black and white",
+              "And color's so, oh",
+              "",
+              "When your best friend's all strung out",
+              "You do everything you can",
+              "'Cause you're never gonna let it get 'em down",
+              "(When you find it all around)",
+              "Yeah, you say it's what you need",
+              "And hide your eyes when you're close to me",
+              "(With your feet up in the clouds)",
+              "Well, it comes in waves",
+              "But it's hardest from the start",
+              "",
+              "Waves in theta slipping into dreams",
+              "I can feel, I can feel, I can feel",
+              "The celestial beings",
+              "Wilted pleasures leave you with a breath",
+              "I can see, I can see, I can see",
+              "The beauty in the mess",
+              "",
+              "(Ah, ah, ah, ah)",
+              "",
+              "It dries up",
+              "I've been a river bed",
+              "I tried to salt the wound",
+              "I've carried more than I can",
+              "I feel I've got a lot to prove",
+              "Sometimes I feel like I only dream in black and white",
+              "But color's so, oh",
+              "",
+              "When your best friend's all strung out",
+              "You do everything you can",
+              "'Cause you're never gonna let it get 'em down",
+              "(When you find it all around)",
+              "Yeah, you say it's what you need",
+              "And hide your eyes when you're close to me",
+              "(With your feet up in the clouds)",
+              "You oughta know that I'm here no matter where you wanna go",
+              "(And your head hanging upside-down)",
+              "Well, it comes in waves, but it's hardest from the start",
+              "",
+              "I am here",
+              "No matter where you are",
+              "I'm waiting here with open arms",
+              "No matter where you are",
+              "Sometimes, you have to wait",
+              "And it passes by like a satellite or star",
+              "No matter where you are",
+              "",
+              "(When your best friend's all strung out)",
+              "You know it, ooh, woo, woo",
+              "Ooh, woo, woo, ooh, ooh, woo, ooh",
+              "(With your feet up in the clouds)",
+              "Oh, yeah, you know it, ooh, woo, woo",
+              "Ooh, woo, woo, ooh, ooh, woo, ooh",
+              "(When your best friend's all strung out)",
+              "",
+              "Oh, yeah, you know it, you oughta know",
+              "That I'm here no matter where you wanna go",
+              "(And your head hanging upside-down)",
+              "Yeah, you know it, that's how you know",
+              "That your best friend's all strung out"
+            ],
+            "footer": "Writer(s): Isom Innis, Mark Foster\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "19311254",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "30404052": {
+          "id": "30404052",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Got off a plane to the countryside",
+              "I drove to the mountain and a hole in the ground",
+              "There was crack on the corner and someone dead",
+              "And fire coming out of a monkey's head",
+              "",
+              "Don't get lost in heaven",
+              "They got locks on the gate",
+              "Don't go over the edge",
+              "You'll make a big mistake, yeah",
+              "",
+              "Put me in a cab to suburbia",
+              "I just took a line, but I wasn't with you",
+              "There was more of it there, when I got back home",
+              "But you had left me, you don't know my soul",
+              "",
+              "You're a whore (don't get lost in heaven)",
+              "Yeah, you're a who-ore",
+              "They got locks on the gate",
+              "Don't go over the edge",
+              "You'll make a big mistake, yeah",
+              "",
+              "You'll make a big mistake, ah",
+              "You'll make a big mistake, ah",
+              "You'll make a big mistake, ah",
+              "You'll make a big mistake, ah"
+            ],
+            "footer": "Writer(s): Damon Albarn, Jamie Hewlett\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "11610899",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "30487814": {
+          "id": "30487814",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "If we don't watch the sun, it will rise",
+              "If we don't take our time, it's not wise",
+              "Putting posters up for your band (hey, we're playing if you wanna come by)",
+              "Now I'll tear them down with my hand",
+              "",
+              "I didn't want to notice",
+              "Didn't know the gun was loaded",
+              "Didn't really know this",
+              "What kind of asshole drives a Lotus?",
+              "",
+              "Come here and go get with me",
+              "I wanna see you Wednesday",
+              "Come on, come on, come over",
+              "Take it off your shoulder",
+              "Come on and pull me over",
+              "We gotta get to work now",
+              "Sliding it off your shoulder",
+              "As we're falling over",
+              "",
+              "Oh, welcome to Japan",
+              "",
+              "Scuba-dancing",
+              "Touchdown",
+              "",
+              "I didn't want to notice",
+              "Didn't know the gun was loaded",
+              "Didn't really know this",
+              "What kind of asshole drives a Lotus?",
+              "I didn't want to bore you",
+              "Didn't wanna pick up your shit for ya",
+              "I've been ready to do this",
+              "I'll be there",
+              "",
+              "Come here and go get with me",
+              "I wanna see you Wednesday",
+              "Come on, come on, come over",
+              "Take it off your shoulder",
+              "Come on and pull me over",
+              "We gotta get to work now",
+              "Sliding it off your shoulder",
+              "As we're falling over",
+              "",
+              "You did it alone",
+              "You did it for fun",
+              "You did it for everyone who's on the run",
+              "You're not just a friend",
+              "You'll be born again",
+              "We'll be in this race until the very end",
+              "He lives on the phone",
+              "He cheats on his clone",
+              "You'll never believe me 'til you're on your own",
+              "",
+              "Comes in once a month",
+              "And he never leaves",
+              "He said he is broken",
+              "Yet he lives free",
+              "Didn't wanna floor ya",
+              "I didn't wanna be there for ya",
+              "Didn't wanna warn ya",
+              "I'll be there"
+            ],
+            "footer": "Writer(s): Julian Casablancas, Nick Valensi, Nikolai Fraiture, Fabrizio Moretti, Albert Hammond Jr\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "11912245",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "30570516": {
+          "id": "30570516",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Well, I could never be like you",
+              "I don't ever talk like that",
+              "Smiling with a sparkling drink",
+              "And stumbling in your lipstick mess",
+              "Molly was the loss of me",
+              "Yeah, it was a tragedy",
+              "But you keep hanging on",
+              "Would've make it look",
+              "Just waiting around",
+              "For someone to take you home",
+              "",
+              "And I know you know I'm not the one",
+              "I'm sorry I was late, I didn't wanna come",
+              "",
+              "Ah...",
+              "Oh no, man, it's just that that looks fun",
+              "Ooh...",
+              "",
+              "Well my eyes are wandering",
+              "Can we just eat the news?",
+              "And dance around the room",
+              "In a scattered point of views",
+              "Well take my hand and breathe",
+              "Babe, just count to three",
+              "I wish that I could blink",
+              "And turn all your words into ice cubes",
+              "So I could fill my drink",
+              "",
+              "And I know you know I'm not the one",
+              "I'm sorry I was late",
+              "Next time, I just won't come",
+              "",
+              "Ah...",
+              "",
+              "Oh no, man, I think I gotta run!",
+              "Ooh...",
+              "",
+              "Well, hey, what's that called?",
+              "When you're sitting on your couch",
+              "And having fun, just being by yourself",
+              "Wondering why",
+              "We can't commit to love",
+              "The things that we got",
+              "We always want more of",
+              "",
+              "But I know you'd rather have me fake it",
+              "But I'm not gonna make it",
+              "",
+              "Ah...",
+              "Yeah, yeah, yeah, man, I gotta run!",
+              "",
+              "Ooh..."
+            ],
+            "footer": "Writer(s): Mark Foster, Isom Innis\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "73013972",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        },
+        "31011660": {
+          "id": "31011660",
+          "type": "lyrics",
+          "attributes": {
+            "text": [
+              "Are we the last living souls?",
+              "Are we the last living souls?",
+              "Are we the last living souls?",
+              "Are we the last living souls?",
+              "",
+              "Take a gun or how you say",
+              "That's no way to behave",
+              "You're just alone when you begin",
+              "To sing a song that doesn't sing",
+              "It grows",
+              "You know",
+              "",
+              "Are we the last living souls?",
+              "Are we the last living souls?",
+              "",
+              "Are we the last to get away to a song another day?",
+              "Or do we know what we know?",
+              "Doesn't seem to be conveyed that way",
+              "",
+              "Are we the last living souls?",
+              "Are we the last living souls?",
+              "Are we the last living souls?",
+              "You'll be the last living soul",
+              "",
+              "Get up, get up, get up, get up",
+              "",
+              "Lord, save me",
+              "",
+              "'Cause all out of song",
+              "I got it down and wrong",
+              "I see myself to get",
+              "The long all-seeing road down",
+              "Can you take us in?",
+              "The part that comin' on",
+              "The coldest man doesn't sing your song",
+              "",
+              "And when you go to the car",
+              "I see you walk into the fog",
+              "And when you get there, what do you see?",
+              "You fit the last you need on me",
+              "",
+              "'Cause we're the last living souls",
+              "We're the last living souls",
+              "Yeah, we're the last living souls",
+              "We're the last living souls"
+            ],
+            "footer": "Writer(s): Damon Albarn, Jamie Hewlett\nLyrics powered by www.musixmatch.com",
+            "musixmatchLyricsId": "1149311",
+            "providerName": "musixmatch",
+            "syncAvailable": false
+          }
+        }
+      },
+      "artist-highlights": {
+        "560289": {
+          "id": "560289",
+          "type": "artist-highlights"
+        },
+        "567072": {
+          "id": "567072",
+          "type": "artist-highlights"
+        },
+        "62820413": {
+          "id": "62820413",
+          "type": "artist-highlights"
+        },
+        "414023649": {
+          "id": "414023649",
+          "type": "artist-highlights"
+        }
+      },
+      "songs": {
+        "434497784": {
+          "id": "434497784",
+          "type": "songs"
+        },
+        "581797970": {
+          "id": "581797970",
+          "type": "songs"
+        },
+        "601140631": {
+          "id": "601140631",
+          "type": "songs"
+        },
+        "793286917": {
+          "id": "793286917",
+          "type": "songs"
+        },
+        "793286921": {
+          "id": "793286921",
+          "type": "songs"
+        },
+        "850571365": {
+          "id": "850571365",
+          "type": "songs"
+        },
+        "850571381": {
+          "id": "850571381",
+          "type": "songs"
+        },
+        "850571385": {
+          "id": "850571385",
+          "type": "songs"
+        },
+        "850571391": {
+          "id": "850571391",
+          "type": "songs"
+        },
+        "850585483": {
+          "id": "850585483",
+          "type": "songs"
+        },
+        "850585484": {
+          "id": "850585484",
+          "type": "songs"
+        },
+        "850585492": {
+          "id": "850585492",
+          "type": "songs"
+        },
+        "1217912010": {
+          "id": "1217912010",
+          "type": "songs"
+        },
+        "1217912256": {
+          "id": "1217912256",
+          "type": "songs"
+        },
+        "1247003777": {
+          "id": "1247003777",
+          "type": "songs"
+        },
+        "1387815138": {
+          "id": "1387815138",
+          "type": "songs"
+        },
+        "1387815142": {
+          "id": "1387815142",
+          "type": "songs"
+        },
+        "1530812335": {
+          "id": "1530812335",
+          "type": "songs"
+        },
+        "1533678941": {
+          "id": "1533678941",
+          "type": "songs"
+        },
+        "1537654761": {
+          "id": "1537654761",
+          "type": "songs"
+        }
+      },
+      "related-tracks": {
+        "track-similarities-id-359665341": {
+          "id": "track-similarities-id-359665341",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-53040475": {
+          "id": "track-similarities-id-53040475",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-53040478": {
+          "id": "track-similarities-id-53040478",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-428972028": {
+          "id": "track-similarities-id-428972028",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-53040471": {
+          "id": "track-similarities-id-53040471",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-40937757": {
+          "id": "track-similarities-id-40937757",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-53537854": {
+          "id": "track-similarities-id-53537854",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-40937751": {
+          "id": "track-similarities-id-40937751",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-40937752": {
+          "id": "track-similarities-id-40937752",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-345054532": {
+          "id": "track-similarities-id-345054532",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-40937755": {
+          "id": "track-similarities-id-40937755",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-53305783": {
+          "id": "track-similarities-id-53305783",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-85977024": {
+          "id": "track-similarities-id-85977024",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-108221332": {
+          "id": "track-similarities-id-108221332",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-536580698": {
+          "id": "track-similarities-id-536580698",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-351297731": {
+          "id": "track-similarities-id-351297731",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-108221335": {
+          "id": "track-similarities-id-108221335",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-428972023": {
+          "id": "track-similarities-id-428972023",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-536580700": {
+          "id": "track-similarities-id-536580700",
+          "type": "related-tracks"
+        },
+        "track-similarities-id-536580701": {
+          "id": "track-similarities-id-536580701",
+          "type": "related-tracks"
+        }
+      },
+      "shazam-songs": {
+        "40937751": {
+          "id": "40937751",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Last Living Souls",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1400418",
+            "webUrl": "https://www.shazam.com/track/40937751/last-living-souls?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Last Living Souls - Gorillaz",
+              "text": "I used Shazam to discover Last Living Souls by Gorillaz.",
+              "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Last Living Souls by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/40937751?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/40937751"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/f7/04/95f704a8-8917-27d3-2eb5-adbfb259afe8/mzaf_10632259270346551395.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/last-living-souls/850571319?i=850571365&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-40937751",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "850571365",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "850571319",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "31011660",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "40937752": {
+          "id": "40937752",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Every Planet We Reach Is Dead",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1400424",
+            "webUrl": "https://www.shazam.com/track/40937752/every-planet-we-reach-is-dead?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Every Planet We Reach Is Dead - Gorillaz",
+              "text": "I used Shazam to discover Every Planet We Reach Is Dead by Gorillaz.",
+              "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Every Planet We Reach Is Dead by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/40937752?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/40937752"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e2/0b/fb/e20bfb01-1699-a4c0-5ca3-b84538f6b27f/mzaf_9362787693509581882.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/every-planet-we-reach-is-dead/850571319?i=850571381&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-40937752",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "850571381",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "850571319",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "20681660",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "40937755": {
+          "id": "40937755",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Don't Get Lost In Heaven",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1400430",
+            "webUrl": "https://www.shazam.com/track/40937755/dont-get-lost-in-heaven?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Don't Get Lost In Heaven - Gorillaz",
+              "text": "I used Shazam to discover Don't Get Lost In Heaven by Gorillaz.",
+              "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Don't Get Lost In Heaven by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/40937755?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/40937755"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/75/27/3c/75273cc3-58a6-6deb-74f7-a948e8b34d92/mzaf_13014501633117667486.plus.aac.p.m4a",
+              "deeplink": "intent://music.apple.com/us/album/dont-get-lost-in-heaven/850571319?i=850571391&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-40937755",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "850571391",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "850571319",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "30404052",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "40937757": {
+          "id": "40937757",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "All Alone",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1400426",
+            "webUrl": "https://www.shazam.com/track/40937757/all-alone?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "All Alone - Gorillaz",
+              "text": "I used Shazam to discover All Alone by Gorillaz.",
+              "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover All Alone by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/40937757?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/40937757"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/17/6e/88/176e88f5-98f0-88ce-b094-e8b27bb32828/mzaf_3983391124415255250.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/all-alone/850571319?i=850571385&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-40937757",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "850571385",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "850571319",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "22789107",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "53040471": {
+          "id": "53040471",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Amarillo",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1400411",
+            "webUrl": "https://www.shazam.com/track/53040471/amarillo?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Amarillo - Gorillaz",
+              "text": "I used Shazam to discover Amarillo by Gorillaz.",
+              "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Amarillo by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/53040471?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/53040471"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/8a/00/968a0037-3d6e-86d7-18e8-ba126966b766/mzaf_16903040040879770645.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/amarillo/850585388?i=850585492&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-53040471",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "850585492",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "850585388",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "23748867",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "53040475": {
+          "id": "53040475",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Hillbilly Man",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1400404",
+            "webUrl": "https://www.shazam.com/track/53040475/hillbilly-man?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Hillbilly Man - Gorillaz",
+              "text": "I used Shazam to discover Hillbilly Man by Gorillaz.",
+              "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Hillbilly Man by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/53040475?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/53040475"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0e/e6/ac/0ee6ac03-3202-c0d8-545e-22683e8a71b8/mzaf_4242559454069901327.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/hillbilly-man/850585388?i=850585484&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-53040475",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "850585484",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "850585388",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "15466158",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "53040478": {
+          "id": "53040478",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Revolving Doors",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1400403",
+            "webUrl": "https://www.shazam.com/track/53040478/revolving-doors?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Revolving Doors - Gorillaz",
+              "text": "I used Shazam to discover Revolving Doors by Gorillaz.",
+              "image": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Revolving Doors by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/53040478?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/53040478"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/21/69/bc/2169bc3c-b1e0-af15-8931-17a9a0071117/mzaf_17990239356968987997.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/revolving-doors/850585388?i=850585483&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-53040478",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "850585483",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "850585388",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "30310077",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "53305783": {
+          "id": "53305783",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Call Me Back",
+            "artist": "The Strokes",
+            "primaryArtist": "The Strokes",
+            "label": "RCA Records Label",
+            "explicit": false,
+            "isrc": "USRC11100047",
+            "webUrl": "https://www.shazam.com/track/53305783/call-me-back?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/d0/33/f9/d033f9a2-ba6b-b6da-e1e7-bfbfbfa0d4f0/mzl.nbgjqtdu.jpg/800x800cc.jpg",
+              "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/90/df/8a90dff0-73c6-c483-ab79-6810308414a2/884977195552.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/90/df/8a90dff0-73c6-c483-ab79-6810308414a2/884977195552.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Call Me Back - The Strokes",
+              "text": "I used Shazam to discover Call Me Back by The Strokes.",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/90/df/8a90dff0-73c6-c483-ab79-6810308414a2/884977195552.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Call Me Back by The Strokes.",
+              "html": "https://www.shazam.com/snippets/email-share/53305783?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/53305783"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/4a/fd/b14afd3a-9dd6-bcac-4ded-0887125a7001/mzaf_13203959165276309805.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/call-me-back/581797918?i=581797970&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "560289",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-53305783",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "581797970",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "581797918",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "560289",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "20297354",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "53537854": {
+          "id": "53537854",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "The Hellcat Spangled Shalalala",
+            "artist": "Arctic Monkeys",
+            "primaryArtist": "Arctic Monkeys",
+            "label": "Domino Recording Co Ltd",
+            "explicit": true,
+            "isrc": "GBCEL1100195",
+            "webUrl": "https://www.shazam.com/track/53537854/the-hellcat-spangled-shalalala?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/d9/a6/06/d9a60642-3a9a-c289-326d-9af3928c4784/pr_source.png/800x800cc.jpg",
+              "coverArt": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a3/67/90/a3679084-26b0-ce80-8498-caca2b580b0c/mzi.yqtohwyp.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a3/67/90/a3679084-26b0-ce80-8498-caca2b580b0c/mzi.yqtohwyp.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "The Hellcat Spangled Shalalala - Arctic Monkeys",
+              "text": "I used Shazam to discover The Hellcat Spangled Shalalala by Arctic Monkeys.",
+              "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a3/67/90/a3679084-26b0-ce80-8498-caca2b580b0c/mzi.yqtohwyp.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover The Hellcat Spangled Shalalala by Arctic Monkeys.",
+              "html": "https://www.shazam.com/snippets/email-share/53537854?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/53537854"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a5/8b/a3/a58ba365-bf8d-889a-901a-af69a4de9039/mzaf_7583482160386311580.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/the-hellcat-spangled-shalalala/434497770?i=434497784&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "62820413",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "track-highlights": {
+              "data": [
+                {
+                  "id": "1113214862",
+                  "type": "track-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-53537854",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "434497784",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "434497770",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "62820413",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "16836002",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "85977024": {
+          "id": "85977024",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Welcome To Japan",
+            "artist": "The Strokes",
+            "primaryArtist": "The Strokes",
+            "label": "RCA Records Label",
+            "explicit": false,
+            "isrc": "USRC11300078",
+            "webUrl": "https://www.shazam.com/track/85977024/welcome-to-japan?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/d0/33/f9/d033f9a2-ba6b-b6da-e1e7-bfbfbfa0d4f0/mzl.nbgjqtdu.jpg/800x800cc.jpg",
+              "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/ae/7a/9cae7a72-29ed-08aa-1b42-913776bbb6ec/886443855571.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/ae/7a/9cae7a72-29ed-08aa-1b42-913776bbb6ec/886443855571.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Welcome To Japan - The Strokes",
+              "text": "I used Shazam to discover Welcome To Japan by The Strokes.",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/ae/7a/9cae7a72-29ed-08aa-1b42-913776bbb6ec/886443855571.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Welcome To Japan by The Strokes.",
+              "html": "https://www.shazam.com/snippets/email-share/85977024?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/85977024"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b8/3a/e0/b83ae047-219b-6ff4-a3e6-f77bd1e45d3b/mzaf_1729234388745634648.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/welcome-to-japan/601140186?i=601140631&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "560289",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-85977024",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "601140631",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "601140186",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "560289",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "30487814",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "108221332": {
+          "id": "108221332",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Best Friend",
+            "artist": "Foster the People",
+            "primaryArtist": "Foster the People",
+            "label": "Columbia",
+            "explicit": false,
+            "isrc": "USSM11305808",
+            "webUrl": "https://www.shazam.com/track/108221332/best-friend?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/f7/3e/73/f73e735a-a31e-b24c-394a-2531567c50bd/pr_source.png/800x800cc.jpg",
+              "coverArt": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/02/8e/aa/028eaa8b-13ac-00f2-cd9e-d39c850917e8/886444398169.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/02/8e/aa/028eaa8b-13ac-00f2-cd9e-d39c850917e8/886444398169.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Best Friend - Foster the People",
+              "text": "I used Shazam to discover Best Friend by Foster the People.",
+              "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/02/8e/aa/028eaa8b-13ac-00f2-cd9e-d39c850917e8/886444398169.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Best Friend by Foster the People.",
+              "html": "https://www.shazam.com/snippets/email-share/108221332?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/108221332"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d1/63/8b/d1638ba8-60b3-7102-e29a-874a362900de/mzaf_15117753425287358884.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/best-friend/793285794?i=793286921&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "414023649",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "track-highlights": {
+              "data": [
+                {
+                  "id": "883298547",
+                  "type": "track-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-108221332",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "793286921",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "793285794",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "414023649",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "30382458",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "108221335": {
+          "id": "108221335",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Nevermind",
+            "artist": "Foster the People",
+            "primaryArtist": "Foster the People",
+            "label": "Columbia",
+            "explicit": false,
+            "isrc": "USSM11305807",
+            "webUrl": "https://www.shazam.com/track/108221335/nevermind?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/f7/3e/73/f73e735a-a31e-b24c-394a-2531567c50bd/pr_source.png/800x800cc.jpg",
+              "coverArt": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/02/8e/aa/028eaa8b-13ac-00f2-cd9e-d39c850917e8/886444398169.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/02/8e/aa/028eaa8b-13ac-00f2-cd9e-d39c850917e8/886444398169.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Nevermind - Foster the People",
+              "text": "I used Shazam to discover Nevermind by Foster the People.",
+              "image": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/02/8e/aa/028eaa8b-13ac-00f2-cd9e-d39c850917e8/886444398169.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Nevermind by Foster the People.",
+              "html": "https://www.shazam.com/snippets/email-share/108221335?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/108221335"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/06/96/18/06961885-ac1c-423d-cccc-840115a87e93/mzaf_1444673130807648891.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/nevermind/793285794?i=793286917&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "414023649",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-108221335",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "793286917",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "793285794",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "414023649",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "22546481",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "345054532": {
+          "id": "345054532",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "We Got the Power (feat. Jehnny Beth)",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1700882",
+            "webUrl": "https://www.shazam.com/track/345054532/we-got-the-power-feat-jehnny-beth?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "We Got the Power (feat. Jehnny Beth) - Gorillaz",
+              "text": "I used Shazam to discover We Got the Power (feat. Jehnny Beth) by Gorillaz.",
+              "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover We Got the Power (feat. Jehnny Beth) by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/345054532?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/345054532"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/9d/88/089d881d-c30e-2613-8029-69243a90259c/mzaf_13181594042105287949.plus.aac.p.m4a",
+              "deeplink": "intent://music.apple.com/us/album/we-got-the-power-feat-jehnny-beth/1217911994?i=1217912256&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-345054532",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "1217912256",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "1217911994",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "19566147",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "351297731": {
+          "id": "351297731",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Strobelite (feat. Peven Everett)",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1700865",
+            "webUrl": "https://www.shazam.com/track/351297731/strobelite-feat-peven-everett?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Strobelite (feat. Peven Everett) - Gorillaz",
+              "text": "I used Shazam to discover Strobelite (feat. Peven Everett) by Gorillaz.",
+              "image": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Strobelite (feat. Peven Everett) by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/351297731?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/351297731"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/a3/db/9ea3dbfb-373b-ad5e-3d37-57cefcb14150/mzaf_7343349419046705489.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/strobelite-feat-peven-everett/1217911994?i=1217912010&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "track-highlights": {
+              "data": [
+                {
+                  "id": "1269102279",
+                  "type": "track-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-351297731",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "1217912010",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "1217911994",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "16627399",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "359665341": {
+          "id": "359665341",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Lotus Eater",
+            "artist": "Foster the People",
+            "primaryArtist": "Foster the People",
+            "label": "Columbia",
+            "explicit": false,
+            "isrc": "USSM11704912",
+            "webUrl": "https://www.shazam.com/track/359665341/lotus-eater?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is2-ssl.mzstatic.com/image/thumb/Features125/v4/f7/3e/73/f73e735a-a31e-b24c-394a-2531567c50bd/pr_source.png/800x800cc.jpg",
+              "coverArt": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/25/ed/54/25ed54be-1420-08c2-680b-844629b83601/886446550565.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/25/ed/54/25ed54be-1420-08c2-680b-844629b83601/886446550565.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Lotus Eater - Foster the People",
+              "text": "I used Shazam to discover Lotus Eater by Foster the People.",
+              "image": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/25/ed/54/25ed54be-1420-08c2-680b-844629b83601/886446550565.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Lotus Eater by Foster the People.",
+              "html": "https://www.shazam.com/snippets/email-share/359665341?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/359665341"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/fc/10/09fc10e7-7104-ffa2-6584-f60c9d0c7b74/mzaf_11123626633700372896.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/lotus-eater/1247002400?i=1247003777&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "414023649",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-359665341",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "1247003777",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "1247002400",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "414023649",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "30570516",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "428972023": {
+          "id": "428972023",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Magic City",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1800463",
+            "webUrl": "https://www.shazam.com/track/428972023/magic-city?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/a2/c0/c8a2c0cc-28e9-c0c6-f425-f6aaf13191f4/190295620660.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/a2/c0/c8a2c0cc-28e9-c0c6-f425-f6aaf13191f4/190295620660.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Magic City - Gorillaz",
+              "text": "I used Shazam to discover Magic City by Gorillaz.",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/a2/c0/c8a2c0cc-28e9-c0c6-f425-f6aaf13191f4/190295620660.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Magic City by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/428972023?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/428972023"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/f3/2a/76f32a59-97f1-ce96-d150-225ebdadb303/mzaf_7475005561262643774.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/magic-city/1387814084?i=1387815142&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-428972023",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "1387815142",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "1387814084",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "21787971",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "428972028": {
+          "id": "428972028",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Kansas",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE1800459",
+            "webUrl": "https://www.shazam.com/track/428972028/kansas?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/a2/c0/c8a2c0cc-28e9-c0c6-f425-f6aaf13191f4/190295620660.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/a2/c0/c8a2c0cc-28e9-c0c6-f425-f6aaf13191f4/190295620660.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Kansas - Gorillaz",
+              "text": "I used Shazam to discover Kansas by Gorillaz.",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/a2/c0/c8a2c0cc-28e9-c0c6-f425-f6aaf13191f4/190295620660.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Kansas by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/428972028?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/428972028"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/a3/d0/77a3d0c3-56e9-0f64-fa49-1e58ebbfe987/mzaf_2247652100642253796.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/kansas/1387814084?i=1387815138&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-428972028",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "1387815138",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "1387814084",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "21320116",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "536580698": {
+          "id": "536580698",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "The Pink Phantom (feat. Elton John and 6LACK)",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE2000602",
+            "webUrl": "https://www.shazam.com/track/536580698/the-pink-phantom-feat-elton-john-and-6lack?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/5a/f1/5d/5af15d9e-751e-bd29-0011-66440841751a/190295129507.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/5a/f1/5d/5af15d9e-751e-bd29-0011-66440841751a/190295129507.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "The Pink Phantom (feat. Elton John and 6LACK) - Gorillaz",
+              "text": "I used Shazam to discover The Pink Phantom (feat. Elton John and 6LACK) by Gorillaz.",
+              "image": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/5a/f1/5d/5af15d9e-751e-bd29-0011-66440841751a/190295129507.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover The Pink Phantom (feat. Elton John and 6LACK) by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/536580698?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/536580698"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/90/67/33/9067334b-9279-7f1e-f606-1171dbb68728/mzaf_1270236227234430610.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/the-pink-phantom-feat-elton-john-and-6lack/1533678938?i=1533678941&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "track-highlights": {
+              "data": [
+                {
+                  "id": "1534202293",
+                  "type": "track-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-536580698",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "1533678941",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "1533678938",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "24103730",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "536580700": {
+          "id": "536580700",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "The Valley of The Pagans",
+            "artist": "Gorillaz Feat. Beck",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": true,
+            "isrc": "GBAYE2000599",
+            "webUrl": "https://www.shazam.com/track/536580700/the-valley-of-the-pagans-feat-beck?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/ff/1e/daff1e84-0fef-2592-896f-2159bc4f3199/190295093549.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/ff/1e/daff1e84-0fef-2592-896f-2159bc4f3199/190295093549.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "The Valley of The Pagans - Gorillaz Feat. Beck",
+              "text": "I used Shazam to discover The Valley of The Pagans by Gorillaz Feat. Beck.",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/ff/1e/daff1e84-0fef-2592-896f-2159bc4f3199/190295093549.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover The Valley of The Pagans by Gorillaz Feat. Beck.",
+              "html": "https://www.shazam.com/snippets/email-share/536580700?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/536580700"
+            },
+            "genres": {
+              "primary": "Hip-Hop/Rap"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4a/20/17/4a201785-7fed-4196-37fc-8a7cb965d204/mzaf_5297833688405619915.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/the-valley-of-the-pagans-feat-beck/1537654746?i=1537654761&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "track-highlights": {
+              "data": [
+                {
+                  "id": "1539040090",
+                  "type": "track-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-536580700",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "1537654761",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "1537654746",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "24188506",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        },
+        "536580701": {
+          "id": "536580701",
+          "type": "shazam-songs",
+          "attributes": {
+            "type": "MUSIC",
+            "title": "Chalk Tablet Towers (feat. St Vincent)",
+            "artist": "Gorillaz",
+            "primaryArtist": "Gorillaz",
+            "label": "Parlophone UK",
+            "explicit": false,
+            "isrc": "GBAYE2000601",
+            "webUrl": "https://www.shazam.com/track/536580701/chalk-tablet-towers-feat-st-vincent?co=US&offsetInMilliseconds=&timeSkew=&trackLength=",
+            "images": {
+              "artistAvatar": "https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/59/be/e9/59bee9e3-0ea3-1d4b-155e-ff68455e9fcc/mza_13609771773827278092.png/800x800cc.jpg",
+              "coverArt": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/d6/6e/01d66e09-0bcc-c560-469b-f6f3af6124b6/190295143152.jpg/400x400cc.jpg",
+              "coverArtHq": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/d6/6e/01d66e09-0bcc-c560-469b-f6f3af6124b6/190295143152.jpg/800x800cc.jpg"
+            },
+            "share": {
+              "subject": "Chalk Tablet Towers (feat. St Vincent) - Gorillaz",
+              "text": "I used Shazam to discover Chalk Tablet Towers (feat. St Vincent) by Gorillaz.",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/d6/6e/01d66e09-0bcc-c560-469b-f6f3af6124b6/190295143152.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Chalk Tablet Towers (feat. St Vincent) by Gorillaz.",
+              "html": "https://www.shazam.com/snippets/email-share/536580701?lang=en-US&country=US",
+              "snapchat": "https://www.shazam.com/partner/sc/track/536580701"
+            },
+            "genres": {
+              "primary": "Alternative"
+            },
+            "streaming": {
+              "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/af/c1/e9/afc1e9fb-03d3-e82b-6104-cbea902e5f9d/mzaf_3573519094990144335.plus.aac.ep.m4a",
+              "deeplink": "intent://music.apple.com/us/album/chalk-tablet-towers-feat-st-vincent/1530812327?i=1530812335&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_android_am&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_android_am#Intent;scheme=http;package=com.apple.android.music;action=android.intent.action.VIEW;end",
+              "store": "https://play.google.com/store/apps/details?id=com.apple.android.music&referrer=utm_source=https%3A%2F%2Fmusic.apple.com%2Fsubscribe%3Fmttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_android_am%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_android_am"
+            },
+            "classicalAvailability": false
+          },
+          "relationships": {
+            "artist-highlights": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artist-highlights"
+                }
+              ]
+            },
+            "related-tracks": {
+              "data": [
+                {
+                  "id": "track-similarities-id-536580701",
+                  "type": "related-tracks"
+                }
+              ]
+            },
+            "songs": {
+              "data": [
+                {
+                  "id": "1530812335",
+                  "type": "songs"
+                }
+              ]
+            },
+            "albums": {
+              "data": [
+                {
+                  "id": "1530812327",
+                  "type": "albums"
+                }
+              ]
+            },
+            "shazam-artists": {
+              "data": [
+                {
+                  "id": "42",
+                  "type": "shazam-artists"
+                }
+              ]
+            },
+            "artists": {
+              "data": [
+                {
+                  "id": "567072",
+                  "type": "artists"
+                }
+              ]
+            },
+            "lyrics": {
+              "data": [
+                {
+                  "id": "26476835",
+                  "type": "lyrics"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "albums": {
+        "434497770": {
+          "id": "434497770",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Arctic Monkeys",
+            "name": "Suck It and See",
+            "releaseDate": "2011"
+          }
+        },
+        "581797918": {
+          "id": "581797918",
+          "type": "albums",
+          "attributes": {
+            "artistName": "The Strokes",
+            "name": "Angles",
+            "releaseDate": "2011"
+          }
+        },
+        "601140186": {
+          "id": "601140186",
+          "type": "albums",
+          "attributes": {
+            "artistName": "The Strokes",
+            "name": "Comedown Machine",
+            "releaseDate": "2013"
+          }
+        },
+        "793285794": {
+          "id": "793285794",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Foster the People",
+            "name": "Supermodel",
+            "releaseDate": "2014"
+          }
+        },
+        "850571319": {
+          "id": "850571319",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Gorillaz",
+            "name": "Demon Days",
+            "releaseDate": "2005"
+          }
+        },
+        "850585388": {
+          "id": "850585388",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Gorillaz",
+            "name": "The Fall",
+            "releaseDate": "2010"
+          }
+        },
+        "1217911994": {
+          "id": "1217911994",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Gorillaz",
+            "name": "Humanz (Deluxe)",
+            "releaseDate": "2017"
+          }
+        },
+        "1247002400": {
+          "id": "1247002400",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Foster the People",
+            "name": "Sacred Hearts Club",
+            "releaseDate": "2017"
+          }
+        },
+        "1387814084": {
+          "id": "1387814084",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Gorillaz",
+            "name": "The Now Now",
+            "releaseDate": "2018"
+          }
+        },
+        "1530812327": {
+          "id": "1530812327",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Gorillaz",
+            "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+            "releaseDate": "2020"
+          }
+        },
+        "1533678938": {
+          "id": "1533678938",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Gorillaz",
+            "name": "Song Machine Episode 7 - EP",
+            "releaseDate": "2020"
+          }
+        },
+        "1537654746": {
+          "id": "1537654746",
+          "type": "albums",
+          "attributes": {
+            "artistName": "Gorillaz Feat. Beck",
+            "name": "Song Machine Episode 8 - Single",
+            "releaseDate": "2020"
+          }
+        }
+      },
+      "track-highlights": {
+        "883298547": {
+          "id": "883298547",
+          "type": "track-highlights"
+        },
+        "1113214862": {
+          "id": "1113214862",
+          "type": "track-highlights"
+        },
+        "1269102279": {
+          "id": "1269102279",
+          "type": "track-highlights"
+        },
+        "1534202293": {
+          "id": "1534202293",
+          "type": "track-highlights"
+        },
+        "1539040090": {
+          "id": "1539040090",
+          "type": "track-highlights"
+        }
+      }
+    }
+  }
