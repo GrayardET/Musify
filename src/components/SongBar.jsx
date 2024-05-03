@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import PlayPause from "./PlayPause";
+import PlayPauseLegacy from "./PlayPauseLegacy";
 
 const SongBar = ({
   data,
@@ -49,12 +49,12 @@ const SongBar = ({
       </div>
     </div>
     {!artistId ? (
-      <PlayPause
+      <PlayPauseLegacy
         isPlaying={isPlaying}
         activeSong={activeSong}
         song={song}
         handlePause={handlePauseClick}
-        handlePlay={()=>handlePlayClick(song, data, i)}
+        handlePlay={() => handlePlayClick(song, data, i)}
       />
     ) : null}
   </div>
