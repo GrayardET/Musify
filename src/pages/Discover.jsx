@@ -48,7 +48,7 @@ const Discover = () => {
                 {data?.map((song, index) => {
                     return (
                         <SongCard
-                            key={song.key}
+                            key={song.id}
                             song={song}
                             i={index}
                             isPlaying={isPlaying}

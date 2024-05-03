@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
-import PalyerPause from "./PlayPause";
 import { playPause, setActiveSong } from "../redux/features/playerSlice";
 import PlayPause from "./PlayPause";
 
@@ -21,7 +20,7 @@ const SongCard = ({ song, isPlaying, activeSong, data, i }) => {
         <div
           className={`absolute inset-0 justify-center items-center bg-black bg-opacity-50
         group-hover:flex ${
-          activeSong?.title === song.title
+          activeSong?.attributes?.name === song?.attributes?.name
             ? "flex bg-black bg-opacity-70"
             : "hidden"
         }`}
@@ -35,8 +34,8 @@ const SongCard = ({ song, isPlaying, activeSong, data, i }) => {
             data={data}
           />
         </div>
-        {song?.images?.coverart ? (
-          <img alt="songCover" src={song?.images?.coverart} />
+        {song?.attributes.artwork.url ? (
+          <img alt="songCover" src={song?.attributes.artwork.url} />
         ) : (
           <div className="h-56 text-gray-300 text-3xl text-center">
             Not Available
@@ -46,7 +45,7 @@ const SongCard = ({ song, isPlaying, activeSong, data, i }) => {
 
       <div className="mt-4 flex flex-col">
         <p className="text-base text-white/90 font-semibold truncate">
-          <Link to={`/songs/${song?.key}`}>{song.title}</Link>
+          <Link to={`/songs/${song?.id}`}>{song?.attributes?.name}</Link>
         </p>
         <p className="text-sm text-gray-400 truncate mt-0.5">
           <Link
@@ -56,7 +55,7 @@ const SongCard = ({ song, isPlaying, activeSong, data, i }) => {
                 : "/top-artists"
             }
           >
-            {song.subtitle}
+            {song?.attributes?.artistName}
           </Link>
         </p>
       </div>

@@ -6,7 +6,7 @@ const RelatedSongs = ({data, isPlaying, activeSong, handlePauseClick, handlePlay
       {data?.map((song, i)=>(
         <SongBar 
           data={data}
-          key={`${song.key}-${artistId}-${i}`}
+          key={`${song.id}-${artistId}-${i}`}
           song={song}
           i={i}
           isPlaying={isPlaying}

@@ -24,7 +24,7 @@ const Search = () => {
             <div className="flex flex-wrap justify-center gap-8">
                 {songs?.map((song, index) => {
                     return (<SongCard 
-                        key={song.key} 
+                        key={song.id} 
                         song={song} 
                         i={index}
                         isPlaying={isPlaying}

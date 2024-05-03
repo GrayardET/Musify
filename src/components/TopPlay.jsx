@@ -19,12 +19,12 @@ const TopChartCard = ({song, i, isPlaying, activeSong, handlePauseClick, handleP
       <img src={song?.images?.coverart} className="w-20 rounded-lg"></img>
 
       <div className="flex-auto flex flex-col justify-start mx-3 truncate">
-        <Link to={`/songs/${song.key}`}>
-          <p className="font-semibold text-lg truncate">{song.title}</p>
+        <Link to={`/songs/${song?.id}`}>
+          <p className="font-semibold text-lg truncate">{song?.attributes?.name}</p>
         </Link>
-        <Link to={`/artists/${song?.artists[0].adamid}`}>
-          <p className="text-base text-gray-300 truncate">{song.subtitle}</p>
-        </Link>
+        {/* <Link to={`/artists/${song?.artists[0].adamid}`}>
+          <p className="text-base text-gray-300 truncate">{song?.attributes?.artistName}</p>
+        </Link> */}
       </div>
       <div className="flex flex-none">
         <PlayPause
@@ -66,7 +66,7 @@ const TopPlay = () => {
 
   return(
     <div ref={topRef} className="xl:ml-6 ml-0 xl:mb-0 mb-6 flex-1 xl:max-w-[500px] max-w-full flex flex-col">
-      <div className="w-full flex flex-col">
+      {/* <div className="w-full flex flex-col">
         <div className="flex flex-row justify-between items-center">
         <h2 className="text-white text-xl font-bold">Top Charts</h2>
           <Link to="/top-charts">
@@ -77,7 +77,7 @@ const TopPlay = () => {
         <div className="mt-4 flex flex-col gap-1">
           {topPlays?.map((song, i) => (
             <TopChartCard
-              key={song.key} 
+              key={song.id} 
               song={song} 
               i={i} 
               activeSong = {activeSong}
@@ -87,9 +87,9 @@ const TopPlay = () => {
             />
           ))}
         </div>
-      </div>
+      </div> */}
 
-      <div className="w-full flex flex-col mt-8">
+      {/* <div className="w-full flex flex-col mt-8">
         <div className="flex justify-between items-center">
           <h2 className="text-white font-bold text-2xl">Top Artists</h2>
           <Link to="/top-artists">
@@ -118,7 +118,7 @@ const TopPlay = () => {
             </SwiperSlide>
           ))}
         </Swiper>
-      </div>
+      </div> */}
     </div>
   )
 };

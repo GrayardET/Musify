@@ -14,17 +14,17 @@ export const shazamCoreApi = createApi({
   }),
   endpoints: (builder) => ({
     getTopCharts: builder.query({
-      query: () => "/v1/charts/world",
+      query: () => "/v1/charts/world?country_code=CA",
     }),
     getSongByGenre: builder.query({
       query: ({ genreListId }) =>
         `v1/charts/genre-world?genre_code=${genreListId}&country_code=CA`,
     }),
     getSongDetails: builder.query({
-      query: ({ songid }) => `/v1/tracks/details?track_id=${songid}`,
+      query: ({ songid }) => `/v2/tracks/details?track_id=${songid}`,
     }),
     getSongRelated: builder.query({
-      query: ({ songid }) => `/v1/tracks/related?track_id=${songid}`,
+      query: ({ oldTrackId }) => `/v1/tracks/related?track_id=${oldTrackId}`,
     }),
     getArtistDetails: builder.query({
       query: ({ artistId }) => `/v2/artists/details?artist_id=${artistId}`,
@@ -48,3 +48,4 @@ export const {
   useGetSongsByCountryQuery,
   useGetSongsBySearchQuery,
 } = shazamCoreApi;
+// https://shazam-core.p.rapidapi.com/v1/tracks/details
