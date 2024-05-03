@@ -6,8 +6,6 @@
 
 
 const ArtistTopSongs = ({song, i}) => {
-  console.log("ArtistsTopSongs component rendered");
-  console.log(song);
   return (
     <div className={`w-full flex flex-row items-center bg-[#4c426e] bg-transparent pt-1 p-4 rounded-lg cursor-pointer mb-2 gap-8 justify-between`}>
         <h3 className="font-bold text-base text-white mr-3">{i + 1}.</h3>

@@ -4,19 +4,22 @@ const DetailsHeader = ({ artistId, artistData, songData }) => {
   const artist = artistData?.attributes;
 
   const artworkUrl =
-    songData.resources["shazam-songs"][
+    songData?.resources["shazam-songs"][
       Object.keys(songData.resources["shazam-songs"])[0]
     ]?.attributes?.artwork?.url;
 
   const songTitle =
-    songData.resources["shazam-songs"][
+    songData?.resources["shazam-songs"][
       Object.keys(songData.resources["shazam-songs"])[0]
     ]?.attributes?.title;
 
-  const artistName = Object.values(songData?.resources?.artists)[0]?.attributes
-    ?.name;
+  const artistName = songData
+    ? Object.values(songData?.resources?.artists)[0]?.attributes?.name
+    : artist?.artistName;
 
-  const artistAdamId = Object.values(songData?.resources?.artists)[0]?.id;
+  const artistAdamId = songData
+    ? Object.values(songData?.resources?.artists)[0]?.id
+    : artist?.artistAdamId;
 
   return (
     <div className="relative w-full flex flex-col mb-6">

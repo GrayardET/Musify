@@ -12,13 +12,9 @@ const ArtistDetails = () => {
     const { data, isFetching: isFetchingArtistDetails, error } =
       useGetArtistDetailsQuery({ artistId });
 
-    var artistData = data?.data?.[0]; 
-    // console.log("artistData :");
-    // console.log(artistData);
+    var artistData = data?.data?.[0];
 
     var artistTopSongs = artistData?.views?.["top-songs"]?.data;
-    console.log(`artistTopSongs:`);
-    console.log(artistTopSongs);
 
     if (isFetchingArtistDetails) {
         return <Loader title="Searching for artist details" />;
@@ -34,7 +30,6 @@ const ArtistDetails = () => {
             <div className="flex flex-row items-center w-full md:pl-6 md:pr-16 mb-8 bg-gradient-to-l from-transparent to-black h-20 " >
               <h3 className=" text-white text-2xl font-bold">Related Songs:</h3>
             </div>
-            
               {artistTopSongs 
               ? artistTopSongs.map((song, i)=>(
                 <ArtistTopSongs 

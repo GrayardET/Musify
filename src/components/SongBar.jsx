@@ -44,7 +44,7 @@ const SongBar = ({
           </p>
         )}
         <p className="text-base font-semibold text-gray-300 mt-1">
-          {artistId ? song?.attributes?.albumName : song?.artists[0]?.alias}
+          {artistId ? song?.attributes?.albumName : song?.artists?.[0]?.alias}
         </p>
       </div>
     </div>
